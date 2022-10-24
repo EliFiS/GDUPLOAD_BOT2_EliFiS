@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5733382036:AAGPFY351wWg5xI2CrHM94RSsCuDW5pDcaQ"
+    APP_ID = "17152322"
+    API_HASH = "79d60e6b081d5ea6c3e7d81b4b6d2f28"
+    DATABASE_URL = "postgres://ekfbwcazubcusx:9ec12262305aa6f7037a346b1489fb59d259c4b46baecedc02bda3f1215e5484@ec2-44-210-36-247.compute-1.amazonaws.com:5432/d50mvuqvag2vge"
+    SUDO_USERS = "593171886" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "293112512116-fptm13rd8rl4mulksts58micmeigd2kp.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/EliFiS_Official"
 
 
 class BotCommands:
